@@ -15,3 +15,5 @@ Simulación usando un robot diferencial Pioneer P3DX en CoppeliaSim.
 - Python
 - CoppeliaSim
 - Lua
+
+Ver manual de usuario en  docs/ManualDeUsuario
